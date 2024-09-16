@@ -1,0 +1,137 @@
+#one{
+    color: red;
+}
+#two{
+    color: green;
+}
+#three{
+    color: blue;
+}
+#four{
+    color: yellow;
+}
+#task2_4{
+    color: rgb(203, 152, 161);
+}
+#task2_6{
+    color: yellow;
+    font-size: 3rem;
+}
+#task3 h1{
+    background-color: blue;
+    color: yellow;
+    padding: 10px;
+}
+#task4img{
+    background-image: url(/PDF-1/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#img-ver{
+    background-image: url(/PDF-1/verimg.jpg);
+    background-repeat: repeat-y;
+    height: 930px;
+}
+.task6color{
+    color: blue;
+}
+#secp{
+    color: green;
+}
+#forthp{
+    color: red;
+}
+#task8{
+    background-color: aqua;
+    padding: 6px;
+}
+#p1{
+    background-color: antiquewhite;
+    color: red;
+}
+.p2{
+    background-image: url(/PDF-1/backgroundtask7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}   
+.task9{
+    color: lightblue;
+}
+#task9h3{
+    background-color: aqua;
+    color: green;
+}
+#task9 #redblue{
+    background-color: aquamarine;
+}
+.red{
+    color: red;
+}
+.blue{
+    color:blue;
+}
+#task9 #oddeven{
+    background-color: violet;
+    text-align: center;
+}
+.odd{
+    color: darkblue;
+}
+.even{
+    color: darkred;
+}
+#links a{
+    text-decoration: none;
+}
+#task10 h6{
+    padding: 15px;
+    margin: 0px;
+    font-size: 20px;
+}
+.item1{
+    background-color: rgb(0, 191, 255);
+    color: white;
+}
+#item3{
+    background-color: pink;
+    color: white;
+}
+.item4{
+    background-color: orange;
+    color: white;
+}
+#task11f{
+    display: flex;
+    flex-direction: column;
+    background-color: lightgoldenrodyellow;
+    border: 2px solid black;
+}
+.inputs{
+    padding: 10px;
+    margin: 10px;
+    border: 0px;
+}
+#contact{
+    background-color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.btn{
+    text-decoration: none;
+    color: black;
+    background-color: gold;
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+#task12{
+    height: 100px;
+    background:linear-gradient(to bottom left ,#1f1f7a 0%,#80005a 50%, #d4ff00 50%, #05c605 100%);
+    text-align: center;
+    padding: 15px;
+}

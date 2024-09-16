@@ -1,0 +1,82 @@
+#task1{
+    position: relative;
+    margin: 50px;
+}
+.div1{
+    position:relative;
+    z-index: 1;
+    border: 2px solid black;
+    padding: 10px;
+    height: 150px;
+}
+.div2{
+    position: fixed;
+    z-index: 2;
+    background: greenyellow;
+    width: 40%;
+    left: 25%;
+    top: 10px;
+    padding: 10px;
+    height: 190px;
+}
+.div3{
+    position: absolute;
+    z-index: 3;
+    background-color: blue;
+    color: white;
+    left: 2%;
+    padding: 10px;
+    width: 80%;
+    top: 140px;
+}
+/* ---------------------------------- */
+#task1{
+    position: relative;
+}
+#task2-1{
+    width: 90px;
+    height: 90px;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 25%;
+    z-index: 1;
+    position: relative;
+}
+#task2-2{
+    width: 90px;
+    height: 90px;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 25%;
+    z-index: 2;
+    position: relative;
+    top: -80px;
+    left: 20px;
+}
+#task2-3{
+    width: 90px;
+    height: 90px;
+    background-color: yellow;
+    color: white;
+    padding: 10px;
+    border-radius: 25%;
+    z-index: 3;
+    position: relative;
+    top: -160px;
+    left: 40px;
+}
+#task2-4{
+    width: 90px;
+    height: 90px;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 25%;
+    z-index: 4;
+    position: relative;
+    top: -240px;
+    left: 60px;
+}
+/* ------------------------------- */
